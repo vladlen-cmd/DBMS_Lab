@@ -1,0 +1,39 @@
+Practical 10 - ODBC (Open Database Connectivity)
+
+Aim:
+To create and perform database operations using ODBC.
+
+Introduction:
+ODBC (Open Database Connectivity) is a standard API that allows applications to access data from various database management systems (DBMS) using SQL. ODBC provides a universal middleware layer between applications and database drivers, making it possible to interact with different databases (like Oracle, MySQL, SQL Server) in a uniform way.
+
+ODBC Components:
+1. Application: Sends SQL statements.
+2. Driver Manager: Loads appropriate ODBC driver.
+3. ODBC Driver: Translates SQL statements into DBMS-specific calls.
+4. Database: Stores and manages data.
+
+Steps to Perform ODBC Operation:
+1. Configure an ODBC Data Source Name (DSN).
+2. Establish connection to the database using ODBC.
+3. Perform operations such as INSERT, UPDATE, DELETE, and SELECT.
+4. Close the connection.
+
+Advantages of ODBC:
+- Database independence (access different DBMS using same interface).
+- Cross-platform compatibility.
+- Standardized communication.
+
+Example Use Cases:
+- Connecting MS Excel to Oracle DB to fetch reports.
+- Accessing SQL Server database from a C/C++/Python application.
+- Integrating databases into desktop applications like MS Access.
+
+Common Tools Supporting ODBC:
+- MS Excel / MS Access
+- Python (pyodbc module)
+- Java (via JDBC-ODBC bridge)
+- SQL Server Management Studio
+
+Conclusion:
+ODBC provides a flexible and standardized approach to access and manipulate data from multiple database systems, making database-driven applications more versatile and portable.
+
