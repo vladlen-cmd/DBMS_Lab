@@ -57,11 +57,6 @@ The following practicals were completed during the session:
 - **Description**: Connected a database to an application using ODBC and performed SQL operations through code.
 - **Key Concepts**: Database connectivity, external data access.
 
-### 11. **Views (Virtual Lab)**
-- **Objective**: To understand and implement database views.
-- **Description**: Created and queried views to simplify data access and enhance security.
-- **Key Concepts**: SQL views, abstraction, access control.
-
 ## Learning Outcomes
 By the end of the lab, students were able to:
 - Create, modify, and manage databases using SQL.
