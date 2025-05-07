@@ -79,9 +79,9 @@ By the end of the lab, students were able to:
 ## Conclusion
 The DBMS Lab provided a strong foundation in database development and management. By applying theoretical knowledge through hands-on practice, students developed crucial skills in designing, implementing, and querying relational databases.
 
+
 ---
 
 **Session**: 2024-25  
-**Instructor**: Dr. Snehlata Dongre(Wankhade)
+**Instructor**: Dr. Snehlata Dongre(Wankhade)  
 **University**: Symbiosis Institute of Technology, Nagpur
-
